@@ -1,0 +1,9 @@
+# Ignored artifacts for local development
+.DS_Store
+node_modules/
+build/
+docs/temp/
+*.log
+AGENTS.md
+dist/
+env/
